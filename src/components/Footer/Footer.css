@@ -1,0 +1,13 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    background-color: lightblue;
+    padding: 20px 0;
+}
+
+footer .button {
+    margin: 0 10px;
+}

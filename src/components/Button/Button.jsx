@@ -1,6 +1,8 @@
+import "./Button.css"
+
 function Button({text, link}) {
     return (
-        <a href={link}>{text}</a>
+        <a className="button" href={link}>{text}</a>
     )
 }
 

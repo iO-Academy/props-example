@@ -1,4 +1,5 @@
 import Button from "../Button/Button"
+import "./Footer.css"
 
 function Footer() {
     return (
